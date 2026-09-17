@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davin Neilson</h1>
-<h3 align="center">AI-oriented Software Engineer with experience in full-stack web & mobile development, machine learning research, and cloud deployment. Skilled in designing scalable systems and delivering fast production-ready solutions using React, Python (FastAPI/Flask), Flutter, and GCP.</h3>
+<h3 align="center">AI-oriented Software Engineer with experience in full-stack web & mobile development, machine learning research, and cloud deployment. Skilled in designing scalable systems and delivering fast production-ready solutions using React, Python (FastAPI), Flutter, and GCP.</h3>
 
 - 👨‍💻 All of my projects are available at [https://davinneilson.my.id/](https://davinneilson.my.id/)
 
