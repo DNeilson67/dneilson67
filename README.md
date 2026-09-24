@@ -7,12 +7,9 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/davin-neilson/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Davin%20Neilson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:davin.neilson67@gmail.com">
-    <img src="https://img.shields.io/badge/Email-davin.neilson67%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+- LinkedIn: [linkedin.com/in/davin-neilson](https://www.linkedin.com/in/davin-neilson/)
+- Email: [davin.neilson67@gmail.com](mailto:davin.neilson67@gmail.com)
+- GitHub: [github.com/DNeilson67](https://github.com/DNeilson67)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
