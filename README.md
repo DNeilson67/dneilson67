@@ -13,9 +13,6 @@
   <a href="mailto:davin.neilson67@gmail.com">
     <img src="https://img.shields.io/badge/Email-davin.neilson67%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/DNeilson67" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-DNeilson67-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
