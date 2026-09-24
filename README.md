@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm Davin Neilson</h1>
 <h3 align="center">AI-oriented Software Engineer with experience in full-stack web & mobile development, machine learning research, and cloud deployment.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📬 Let's Connect</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/davin-neilson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davin-neilson/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/davin-neilson/" target="blank"><img align="center" src="https://www.pngarts.com/files/10/Email-Icon-PNG-Transparent-Image.png" alt="https://www.linkedin.com/in/davin-neilson/" height="30" width="40" /></a>
+  Open to collaborations on <b>machine learning research</b>, <b>full-stack development</b>, and <b>AI-driven products</b>. The fastest ways to reach me are below.
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/davin-neilson/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Davin%20Neilson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:davin.neilson67@gmail.com">
+    <img src="https://img.shields.io/badge/Email-davin.neilson67%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/DNeilson67" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-DNeilson67-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
